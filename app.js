@@ -1,6 +1,6 @@
 
 var url = window.location.href;
-var swLocation = './sw.js';
+var swLocation = './smelec/sw.js';
 
 
 if ( navigator.serviceWorker ) {
